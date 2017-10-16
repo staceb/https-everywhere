@@ -1,8 +1,4 @@
-<!--
-	!functional:
-		- (www.)coclico-project.org	(cert: forge.projet-coclico.org; shows that domain's data)
--->
-<ruleset name="Coclico Project (partial)" default_off="shows default page">
+<ruleset name="Coclico Project (partial)" default_off="self-signed, content-different">
 
 	<target host="projet-coclico.org"/>
 	<target host="www.projet-coclico.org"/>

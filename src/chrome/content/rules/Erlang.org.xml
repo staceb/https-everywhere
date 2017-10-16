@@ -1,12 +1,13 @@
 <!--
-	Time out:
-		erlang.org
-		hades.erlang.org
-		svn.erlang.org
-		www1.erlang.org
+
+	Problematic hosts in *erlang.org:
+
+		- ^ (timeout)
+		- svn (timeout)
+		- www1 (timeout)
 
 -->
-<ruleset name="Erlang" default_off="Missing certificate chain">
+<ruleset name="Erlang" default_off="cert-chain">
 
 	<target host="erlang.org" />
 	<target host="www.erlang.org" />

@@ -1,8 +1,4 @@
-<!--
-	(www.)?heatball.de: Shows kronix.xeneris.net
-
--->
-<ruleset name="Heatball.de" default_off="shows another domain">
+<ruleset name="Heatball.de">
 
 	<target host="heatball.de" />
 	<target host="www.heatball.de" />
