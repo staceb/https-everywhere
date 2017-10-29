@@ -1,13 +1,8 @@
-<!--
-	Server sends no certificate chain *
+<ruleset name="Oberheide.org">
 
-	* See https://whatsmychaincert.com
-
--->
-<ruleset name="Oberheide.org" default_off="missing certificate chain">
-
+	<target host="oberheide.org" />
+	<target host="www.oberheide.org" />
 	<target host="jon.oberheide.org" />
-
 
 	<rule from="^http:"
 		to="https:" />
