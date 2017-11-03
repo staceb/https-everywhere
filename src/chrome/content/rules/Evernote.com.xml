@@ -20,7 +20,6 @@
 	<target host="support.evernote.com" />
 	<target host="translate.evernote.com" />
 	<target host="trunk.evernote.com" />
-	<target host="www.evernote.com" />
 
 	<securecookie host=".+" name=".+" />
 

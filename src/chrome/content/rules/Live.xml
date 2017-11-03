@@ -176,7 +176,6 @@
 	<target host="office.live.com" />
 	<target host="c2rsetup.officeapps.live.com" />
 	<target host="odc.officeapps.live.com" />
-	<target host="onedrive.live.com" />
 	<target host="people.live.com" />
 	<target host="people-df.live.com" />
 	<target host="photos.live.com" />
@@ -190,7 +189,6 @@
 	<target host="directory.services.live.com" />
 
 	<target host="signup.live.com" />
-	<target host="skydrive.live.com" />
 	<target host="skygfx.live.com" />
 	<target host="spaces.live.com" />
 	<target host="mobile.spaces.live.com" />

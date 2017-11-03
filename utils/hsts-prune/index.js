@@ -159,6 +159,7 @@ const check_header_directives = (check_domain, cb) => {
 };
 
 const check_https_redirection_and_header_directives = (check_domain, cb) => {
+  return setImmediate(cb, null, true);
   let sent_callback = false;
   http.get('http://' + check_domain, res => {
     let escaped_check_domain = escape_string_regexp(check_domain);

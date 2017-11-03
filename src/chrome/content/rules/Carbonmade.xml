@@ -36,7 +36,6 @@
 
 	<!--	Direct rewrites:
 				-->
-	<target host="carbonmade.com" />
 	<target host="descience06.carbonmade.com" />
 	<target host="descience07.carbonmade.com" />
 	<target host="www.carbonmade.com" />

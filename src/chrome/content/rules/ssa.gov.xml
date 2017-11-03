@@ -26,7 +26,6 @@
 -->
 <ruleset name="SSA.gov">
 
-	<target host="ssa.gov" />
 	<target host="best.ssa.gov" />
 	<target host="edata.ssa.gov" />
 	<target host="eme.ssa.gov" />

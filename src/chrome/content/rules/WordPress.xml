@@ -4,7 +4,6 @@
 	strict-transport-security:max-age=15552000
 -->
 <ruleset name="WordPress">
-	<target host="wordpress.com" />
 	<target host="*.wordpress.com" />
 		<test url="http://www.wordpress.com/" />
 		<test url="http://en.wordpress.com/" />

@@ -41,10 +41,6 @@
 	<target host="tpc.googlesyndication.com" />
 
 	<!-- Gmail -->
-	<target host="gmail.com" />
-		<target host="www.gmail.com" />
-	<target host="googlemail.com" />
-		<target host="www.googlemail.com" />
 	<securecookie host="^gmail\.com$" name=".+" />
 	<securecookie host="^www\.gmail\.com$" name=".+" />
 	<securecookie host="^googlemail\.com$" name=".+" />

@@ -16,18 +16,6 @@
 -->
 <ruleset name="Planet-Work (partial)">
 	<!-- *planet-work.com -->
-	<target host="planet-work.com" />
-	<target host="www.planet-work.com" />
-	<target host="clients.planet-work.com" />
-	<target host="css.planet-work.com" />
-	<target host="ezadmin.planet-work.com" />
-	<target host="lists.planet-work.com" />
-	<target host="status.planet-work.com" />
-	<target host="support.planet-work.com" />
-	<target host="web.planet-work.com" />
-	<target host="webftp.planet-work.com" />
-	<target host="webmail.planet-work.com" />
-	<target host="www3.planet-work.com" />
 
 
 	<!-- *planet-work.fr -->

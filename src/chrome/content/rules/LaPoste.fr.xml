@@ -30,7 +30,6 @@
 	<target host="pro.boutique.laposte.fr" />
 	<target host="boxecommerce.laposte.fr" />
 	<target host="aide.boutique.laposte.fr" />
-	<target host="compte.laposte.net" />
 	<target host="cotepro.laposte.fr" />
 	<target host="datanova.laposte.fr" />
 	<target host="developer.laposte.fr" />

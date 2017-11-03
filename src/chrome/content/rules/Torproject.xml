@@ -1,6 +1,5 @@
 <ruleset name="Tor Project">
 
-	<target host="torproject.org" />
 	<target host="*.torproject.org" />
 		<test url="http://blog.torproject.org/" />
 		<test url="http://check.torproject.org/" />

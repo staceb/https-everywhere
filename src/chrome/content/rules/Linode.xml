@@ -41,20 +41,16 @@ Fetch error: http://tokyo.webconsole.linode.com/ => https://tokyo.webconsole.lin
 
 	<!--	Direct rewrites:
 				-->
-	<target host="linode.com" />
 	<target host="alpha.linode.com" />
 	<target host="api.alpha.linode.com" />
 	<target host="login.alpha.linode.com" />
 	<target host="api.linode.com" />
 	<target host="apt.linode.com" />
 	<target host="apt-longview.linode.com" />
-	<target host="blog.linode.com" />
 	<target host="developers.linode.com" />
 	<target host="engineering.linode.com" />
-	<target host="forum.linode.com" />
 	<target host="library.linode.com" />
 	<target host="login.linode.com" />
-	<target host="manager.linode.com" />
 	<target host="stats.linode.com" />
 	<target host="status.linode.com" />
 	<target host="atlanta.webconsole.linode.com" />
@@ -65,7 +61,6 @@ Fetch error: http://tokyo.webconsole.linode.com/ => https://tokyo.webconsole.lin
 	<target host="newark.webconsole.linode.com" />
 	<target host="singapore.webconsole.linode.com" />
 	<target host="tokyo.webconsole.linode.com" />
-	<target host="www.linode.com" />
 
 	<!--	Not secured by server:
 					-->

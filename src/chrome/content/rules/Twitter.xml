@@ -95,7 +95,6 @@
 
 	<!--	Direct rewrites:
 					-->
-	<target host="twitter.com" />
 	<target host="*.twitter.com" />
 
 		<test url="http://2010.twitter.com/" />

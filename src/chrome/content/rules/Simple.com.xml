@@ -2,11 +2,7 @@
 
 	<!--	Direct rewrites:
 				-->
-	<target host="simple.com" />
-	<target host="bank.simple.com" />
-	<target host="fj.simple.com" />
 	<target host="status.simple.com" />
-	<target host="www.simple.com" />
 
 
 	<securecookie host="^bank\.simple\.com$" name=".+" />

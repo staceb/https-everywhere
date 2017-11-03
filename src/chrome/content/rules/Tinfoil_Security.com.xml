@@ -2,9 +2,7 @@
 
 	<target host="tinfoil.co" />
 	<target host="www.tinfoil.co" />
-	<target host="tinfoilsecurity.com" />
 	<target host="blog.tinfoilsecurity.com" />
-	<target host="www.tinfoilsecurity.com" />
 
 
 	<securecookie host="^\.tinfoilsecurity\.com$" name=".+" />

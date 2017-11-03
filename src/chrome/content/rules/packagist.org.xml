@@ -1,6 +1,5 @@
 <ruleset name="Packagist.org">
 
-	<target host="packagist.org" />
 	<target host="www.packagist.org" />
 
 

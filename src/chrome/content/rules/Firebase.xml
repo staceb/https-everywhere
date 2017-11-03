@@ -14,7 +14,6 @@
 
 	<!-- wildcard is necessary to support many subdomains -->
 	<target host="*.firebaseapp.com" />
-	<target host="*.firebaseio.com" />
 
 		<test url="http://firechat.firebaseapp.com/" />
 		<test url="http://sandbox-tutorial.firebaseapp.com/" />

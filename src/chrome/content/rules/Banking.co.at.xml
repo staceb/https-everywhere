@@ -6,6 +6,5 @@ Fetch error: http://banking.co.at/ => https://banking.co.at/: (6, 'Could not res
 -->
 <ruleset name="Banking.co.at" default_off='failed ruleset test'>
 	<target host="banking.co.at" />
-	<target host="www.banking.co.at" />
 	<rule from="^http:" to="https:" />
 </ruleset>

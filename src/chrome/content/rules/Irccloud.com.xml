@@ -1,6 +1,5 @@
 <ruleset name="IRCCloud">
 	<target host="irccloud.com" />
-	<target host="www.irccloud.com" />
 	<target host="api.irccloud.com" />
 	<target host="blog.irccloud.com" />
 

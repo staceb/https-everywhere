@@ -1,7 +1,6 @@
 <ruleset name="Noisebridge.net">
 
 	<target host="noisebridge.net" />
-	<target host="www.noisebridge.net" />
 
 
 	<rule from="^http:"

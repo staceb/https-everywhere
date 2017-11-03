@@ -1,6 +1,0 @@
-<ruleset name="Opsmate">
-	<target host="opsmate.com" />
-	<target host="www.opsmate.com" />
-
-	<rule from="^http:" to="https:" />
-</ruleset>

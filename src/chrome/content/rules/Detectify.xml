@@ -13,7 +13,6 @@
 -->
 <ruleset name="Detectify.com (partial)">
 
-	<target host="detectify.com" />
 	<target host="www.detectify.com" />
 
 

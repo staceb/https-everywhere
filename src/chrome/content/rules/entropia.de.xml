@@ -25,8 +25,6 @@ Fetch error: http://shop.entropia.de/ => https://shop.entropia.de/: (7, 'Failed 
 -->
 <ruleset name="entropia.de" default_off='failed ruleset test'>
 
-	<target host="entropia.de" />
-	<target host="www.entropia.de" />
 	<target host="badge.entropia.de" />
 	<target host="blog.entropia.de" />
 	<target host="ccc-tool-1.entropia.de" />
